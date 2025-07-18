@@ -27,4 +27,4 @@ Requires Visual Studio 2019+ with C++20 support.
 
 ## License
 [MIT](https://opensource.org/license/mit)
-> QuikPak is not meant to be used as a legitmiate protection software.
+> QuikPak is not recommended to be used in a commercial context, see code before use.
