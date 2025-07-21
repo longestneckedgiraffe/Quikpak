@@ -3,7 +3,7 @@
 Windows PE protection tool written in C++.
 
 ## Status
-This project is abandoned, and is a representation of my abilities as a novice reverse engineer.
+This project is abandoned, and was a representation of my abilities as a novice reverse engineer.
 ## Usage
 
 ```bash
